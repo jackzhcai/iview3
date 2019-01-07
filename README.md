@@ -41,7 +41,7 @@ We also provide a starter kit [iview-project](https://github.com/iview/iview-pro
 
 Using npm:
 ```
-npm install iview --save
+npm install iview3.x --save
 ```
 
 Using a script tag for global use:
@@ -73,7 +73,7 @@ You can find more info [on the website](https://www.iviewui.com/docs/guide/insta
 Using css via `import`:
 
 ```js
-import 'iview/dist/styles/iview.css';
+import 'iview3.x/dist/styles/iview.css';
 ```
 
 ## Compatibility
