@@ -1,9 +1,9 @@
 {
-    "name": "iview",
+    "name": "iview3.x",
     "version": "3.2.1",
-    "title": "iView",
+    "title": "基于 iView 3.2.1 镜像",
     "description": "A high quality UI components Library with Vue.js",
-    "homepage": "http://www.iviewui.com",
+    "homepage": "https://jackzhcai.github.io/iview-doc-3.x/",
     "keywords": [
         "iview",
         "vue",
