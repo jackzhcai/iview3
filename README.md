@@ -4,7 +4,7 @@
     </a>
 </p>
 
-# 基于 iView 3.2.1 镜像
+# 基于 iView 3.2.2 镜像
 
 [![](https://img.shields.io/travis/iview/iview.svg?style=flat-square)](https://travis-ci.org/iview/iview)
 [![iView](https://img.shields.io/npm/v/iview.svg?style=flat-square)](https://www.npmjs.org/package/iview)
